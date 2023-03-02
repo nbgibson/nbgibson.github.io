@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <title>Redirecting to github.com/nbgibson/</title>
-    <meta http-equiv="refresh" content="0; URL=https://github.com/simonw">
+    <meta http-equiv="refresh" content="0; URL=https://github.com/nbgibson">
     <link href="https://github.com/nbgibson" rel="me">
     <link href="https://mastodon.content.town/@Warbird" rel="me">
   </head>
